@@ -14,6 +14,7 @@
     <type fullname="UI.ExpandAnchorsBehaviour" preserve="all" />
     <type fullname="UI.HowToPlayScreen" preserve="all" />
     <type fullname="UI.ImageHoverScale" preserve="all" />
+    <type fullname="UI.ImagePulse" preserve="all" />
     <type fullname="UI.LeaderboardScreen" preserve="all" />
     <type fullname="UI.LootboxScreen" preserve="all" />
     <type fullname="UI.LootboxView" preserve="all" />
@@ -68,7 +69,6 @@
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
-    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
